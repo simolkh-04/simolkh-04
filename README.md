@@ -39,6 +39,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
 </picture>
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJxcXRyY3lpb2IxNHA4dG5pdHRlaTdpZ3c0NjhqNHJvanc5aTM2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwtkGJJ4UM3BsiU4Rs/giphy.gif" alt="Akira GIF" width="350">
-</div>
