@@ -20,12 +20,12 @@
 
 
 <a>
-  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=adamzahraoui&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=simolkh-04&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
 
 <a>
-    <img align="center"width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamzahraoui&layout=compact&theme=aura&langs_count=9" />
+    <img align="center"width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simolkh-04&layout=compact&theme=aura&langs_count=9" />
 </a>
 
 
